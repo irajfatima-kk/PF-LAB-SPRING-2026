@@ -1,20 +1,14 @@
-\# Programming Fundamentals Labs - Spring 2026
+# Programming Fundamentals - Lab 03
+**Name:** Iraj Fatima  
+**Roll Number:** 25k-6512
 
+### Lab Objectives
+* Understand GitHub repository setup and management
+* Practice Markdown formatting for documentation
+* Learn branching, committing, and merging workflows
+* Implement basic C programs with variables and user input
 
-
-This repository contains solutions for Programming Fundamentals labs (Spring 2026).  
-
-Each lab is organized in its own folder with a dedicated README explaining the tasks.
-
-
-
-\## Labs Included
-
-\- Lab 03: Basic programming tasks
-
-\- Lab 04: Conditional statements and switch cases
-
-\- Future labs will be added here.
-
-
-
+### Completed Tasks
+- [x] Task 1: GitHub Repository Setup
+- [x] Task 2: README.md Formatting
+- [x] Task 3: Branch Creationt
